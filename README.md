@@ -7,7 +7,12 @@
 [![React and TypeScript](https://img.shields.io/badge/React-+TS-1cd760?logo=react&style=flat)](https://react.dev/)
 [![Telegram](https://img.shields.io/badge/Tailwind-CSS-blue?logo=tailwindcss&style=flat)](https://tailwindcss.com/)
 [![Hosted on Vercel](https://img.shields.io/badge/Vercel-Demo-0066FF?logo=vercel&style=flat)](https://notcoin-mini-app.vercel.app/)
+
+<a href='https://t.me/+Vq1OUKQIB0YxMmRl'>
+<img src='https://img.shields.io/badge/Telegram-The Method Zone-blue?logo=telegram&style=flat'> 
+</a>
 </div>
+
 
 <h4 align="center">✨ A clone of the Telegram NotCoin Bot Mini App 🥇</h4>
 
