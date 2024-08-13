@@ -24,7 +24,14 @@
   <a href="https://www.typescriptlang.org/">TypeScript</a>
 </div>
 </br>
+<br>
 
+<div align='center'> 
+<a href='https://t.me/+Vq1OUKQIB0YxMmRl'>
+<img src='https://img.shields.io/badge/Telegram-The Method Zone-blue?logo=telegram&style=flat'> 
+</a>
+</div>
+<br>
 📚 **NotCoin Bot Mini App** Clone is a replica of the popular Telegram mini app, designed to provide similar functionality and user experience. This project was created to demonstrate the use of modern web development tools and libraries. Official NotCoin Bot : [@notcoin_bot](https://t.me/notcoin_bot)
 
 ## ✨ Features
@@ -77,18 +84,14 @@ Contributions are what make the open-source community such an amazing place to l
 ## 🌟 Support and Community
 If you found this project helpful, **don't forget to give it a ⭐ on GitHub.** This helps others find and use the project too! 🫶
 
-#### 💰 Support Me
-<a href="https://ko-fi.com/malith" target="_blank" alt="KoFi"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
-
 Join our Telegram channels, 
 
-- [@SingleDevelopers](https://t.me/SingleDevelopers), for more amazing projects and updates ✓
-- [@SL_Developers](https://t.me/SL_Developers), for this project updates ✓
+<br>
 
-## 📬 Contact
-If you have any questions, feedback, or just want to say hi, you can reach out to me:
+<div align='center'> 
+<a href='https://t.me/+Vq1OUKQIB0YxMmRl'>
+<img src='https://img.shields.io/badge/Telegram-The Method Zone-blue?logo=telegram&style=flat'> 
+</a>
+</div>
+<br>
 
-- Telegram : [@MalithRukshan](https://t.me/MalithRukshan)
-- Email : [hello@malith.dev](mailto:hello@malith.dev)
-
-🧑‍💻 Built with 💖 by [Single Developers </> ](https://t.me/SingleDevelopers)
